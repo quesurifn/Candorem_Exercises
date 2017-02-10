@@ -1,0 +1,29 @@
+body {
+  font-family: 'Hammersmith One', sans-serif; }
+  body a {
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 1px;
+    margin: 50px 0 0 50px;
+    height: 85px;
+    width: 240px;
+    background-color: #999;
+    background-image: linear-gradient(#e8e8e8 0%, #d4d4d4 50%, #c6c6c6 50%, #aeaeae 100%);
+    border-radius: 10px;
+    color: #555;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 1px 1px 0 #e2e2e4;
+    text-transform: uppercase;
+    line-height: 3.5em;
+    display: block;
+    border-radius: 20px;
+    box-shadow: 0 1px 2px 1px rgba(0, 0, 0, 0.5), 0 0 0 5px #cacaca, 0 0 0 7px white, 0 0 0 9px #666666, 0 1px 2px 9px rgba(160, 160, 160, 0.8); }
+    body a:before, body a:after {
+      border-radius: 1em;
+      color: #888;
+      content: '\2605';
+      margin: 0 16px 0 16px;
+      font-size: 30px; }
+
+/*# sourceMappingURL=button.css.map */
